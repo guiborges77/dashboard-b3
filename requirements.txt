@@ -1,6 +1,6 @@
 streamlit==1.26.0
-pandas>=2.0.0,<2.3
-numpy>=1.26,<2
-matplotlib
-seaborn
-Unidecode
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.7.2
+seaborn==0.13.2
+Unidecode==1.4.0
